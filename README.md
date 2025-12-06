@@ -7,7 +7,6 @@ Devcontainer for Flux manifests ☸️
 [![Lint](https://github.com/radio-aktywne/devcontainer-flux/actions/workflows/lint.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-flux/actions/workflows/lint.yaml)
 [![Image](https://github.com/radio-aktywne/devcontainer-flux/actions/workflows/image.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-flux/actions/workflows/image.yaml)
 [![Registry](https://github.com/radio-aktywne/devcontainer-flux/actions/workflows/registry.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-flux/actions/workflows/registry.yaml)
-[![Docs](https://github.com/radio-aktywne/devcontainer-flux/actions/workflows/docs.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-flux/actions/workflows/docs.yaml)
 
 </div>
 
@@ -15,14 +14,9 @@ Devcontainer for Flux manifests ☸️
 
 ## 💡 About
 
-This repository contains a [`Dev Container`](https://containers.dev)
-tailored for developing [`Flux`](https://fluxcd.io) manifests in
-[`radio-aktywne`](https://github.com/radio-aktywne).
-
-## 📄 Further Reading
-
-More in-depth documentation can be found
-[here](https://radio-aktywne.github.io/devcontainer-flux).
+`flux` is a [`Dev Container`](https://containers.dev)
+for developing [`Flux`](https://fluxcd.io) manifests for
+[`Kubernetes`](https://kubernetes.io).
 
 ## 💻 Development
 
